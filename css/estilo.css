@@ -6,7 +6,7 @@
 body{
 	font-family: 'Josefin Sans', sans-serif, Helvetica, Arial, sans-serif;
 	font-weight:400;
-	background:rgba(255,255,255,1);
+	background:rgba(1,1,1,1);
 	color:rgba(0,0,0,1);
 }
 
@@ -79,7 +79,7 @@ video{
 .primera{
 	min-height:300px;
 	text-align:left;
-	background-color:rgba(241,230,210,1);
+	background-color:rgba(244,236,250,1);
 	background-image:url('../images/dupla-primera.jpg');
 	background-position:top right;
 	background-repeat:no-repeat;
@@ -96,7 +96,7 @@ video{
 .segunda{
 	min-height:300px;
 	text-align:right;
-	background-color:rgba(231,240,239,1);
+	background-color:rgba(244,236,250,1);
 	background-image:url('../images/dupla-segunda.jpg');
 	background-position:top left;
 	background-repeat:no-repeat;
@@ -115,6 +115,16 @@ video{
 	clear:both;
 	border:none;
 	}
+#titulo-creaciones {
+	color:white;
+}
+#titulo-nosotras {
+	color:white;
+}
+
+#linea-final {
+	color:white;
+}
 
 #portafolio{
 	width:100%;
@@ -128,23 +138,23 @@ video{
 	}
 
 @-webkit-keyframes fondo {
-	from {background-color:rgba(241,230,210,1);}
-	to {background-color:rgba(231,240,239,1);}
+	from {background-color:rgba(244,236,250,1);}
+	to {background-color:rgba(219,182,247,1);}
 }
 
 @-moz-keyframes fondo {
-	from {background-color:rgba(241,230,210,1);}
-	to {background-color:rgba(231,240,239,1);}
+	from {background-color:rgba(244,236,250,1);}
+	to {background-color:rgba(219,182,247,1);}
 }
 
 @-ms-keyframes fondo {
-	from {background-color:rgba(241,230,210,1);}
-	to {background-color:rgba(231,240,239,1);}
+	from {background-color:rgba(244,236,250,1);}
+	to {background-color:rgba(219,182,247,1);}
 }
 
 @keyframes fondo {
-	from {background-color:rgba(241,230,210,1);}
-	to {background-color:rgba(231,240,239,1);}
+	from {background-color:rgba(244,236,250,1);}
+	to {background-color:rgba(219,182,247,1);}
 }
 
 .item {
