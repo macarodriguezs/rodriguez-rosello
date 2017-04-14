@@ -79,7 +79,7 @@ video{
 .primera{
 	min-height:300px;
 	text-align:left;
-	background-color:rgba(244,236,250,1);
+	background-color:rgba(228,210,247,1);
 	background-image:url('../images/dupla-primera.jpg');
 	background-position:top right;
 	background-repeat:no-repeat;
@@ -96,7 +96,7 @@ video{
 .segunda{
 	min-height:300px;
 	text-align:right;
-	background-color:rgba(244,236,250,1);
+	background-color:rgba(228,210,247,1);
 	background-image:url('../images/dupla-segunda.jpg');
 	background-position:top left;
 	background-repeat:no-repeat;
